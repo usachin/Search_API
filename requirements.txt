@@ -1,0 +1,6 @@
+opencv-python
+flask
+google-search
+wikipedia
+argparse
+google-cloud
